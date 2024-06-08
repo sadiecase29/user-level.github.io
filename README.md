@@ -5,7 +5,7 @@ Welcome to my CIT Minor portfolio. Here, you'll find links to my labs and projec
 
 ## Labs and Projects
 
-- [Lab 1: Install Required Software and Practice Using It](https://github.com/sadiecase29/lab1-repo)
+- [Lab 1: Install Required Software and Practice Using It](https://github.com/sadiecase29/lab-01-repo)
   - Purpose: Get to know the software and tools that we will be using for the course.
 # CIT 281 Lab 1
 
@@ -40,7 +40,7 @@ The purpose of this lab was to:
 - Command Line Proficiency
 - Keyboard Efficiency
 
-- [Lab 2: Basic CLI and Git](https://github.com/your-username/lab2-repo)
+- [Lab 2: Basic CLI and Git](https://github.com/sadiecase29/lab-02-repo)
   - Purpose: Get an introduction to git and repositories.
    # CIT 281 Lab 2
 
@@ -77,7 +77,7 @@ The purpose of this lab was to:
 - Working with Branches
 - Listing Tracked Files
 
-- [Project 1: Gain experience with CLI commands and VScode](https://github.com/your-username/project1-repo)
+- [Project 1: Gain experience with CLI commands and VScode](https://github.com/sadiecase29/p1-repo)
   - Purpose: Use CLI commands in the terminal to create and execute javascript files.
 # CIT 281 Project 1
 
@@ -101,7 +101,7 @@ The purpose of this lab was to:
 - How to use Git and Version Control
 - How to manipulate JavaScript Programming
 
-- [Lab 3: Practice with syntax with objests and arrays](https://github.com/your-username/lab3-repo)
+- [Lab 3: Practice with syntax with objests and arrays](https://github.com/sadiecase29/lab-03-repo)
   - Purpose: Focus on destructuring objects and arrow function expressions.
 # CIT 281 Lab 3
 
@@ -130,7 +130,7 @@ The purpose of this lab was to:
 - Spread Operator
 - Module Exports and Imports
 
-- [Project 2: Non-web server Node.js](https://github.com/your-username/project2-repo)
+- [Project 2: Non-web server Node.js](https://github.com/sadiecase29/p2-repo)
   - Purpose: Gain experience writing and executing non-web server Node.js JavaScript code.
 # CIT 281 Project 2
 
@@ -156,7 +156,7 @@ The purpose of this lab was to:
 - How to use VSCode for Development and Git Operations
 - How to create and use .gitignore
 
-- [Lab 4: Introduction to Fastify](https://github.com/your-username/project2-repo)
+- [Lab 4: Introduction to Fastify](https://github.com/sadiecase29/lab-04-repo)
   - Purpose: Learn to Create initial Fastify Node.js web server.
 # CIT 281 Lab 4
 
@@ -187,7 +187,7 @@ The purpose of this lab was to:
 - How to Fix MIME Type Errors
 - How to handle Query Parameters in Fastify
 
-- [Lab 5: Introduction to Postman](https://github.com/your-username/project2-repo)
+- [Lab 5: Introduction to Postman](https://github.com/sadiecase29/lab-05-repo)
   - Purpose: Use Postman to test server GET routes, Add POST handling to server application and respond with JSON, Use Postman and POST request.
 # CIT 281 Lab 5
 
@@ -219,7 +219,7 @@ The purpose of this lab was to:
 - How to Manage Project Dependencies with npm
 - How to Handle JSON Data
 
-- [Project 3: Practice creating and using Code Modules](https://github.com/your-username/project2-repo)
+- [Project 3: Practice creating and using Code Modules](https://github.com/sadiecase29/p3-repo)
   - Purpose: Gain experience writing and executing web server Node.js JavaScript code using VSCode.
 # CIT 281 Project 3
 
@@ -251,7 +251,7 @@ The purpose of this lab was to:
 - How to Use npm for Dependency Management
 - Gained experience with HTML and Web Page Serving
 
-- [Lab 6: Introduction to Creating Classes](https://github.com/your-username/project2-repo)
+- [Lab 6: Introduction to Creating Classes](https://github.com/sadiecase29/lab-06-repo)
   - Purpose: Learn how to create book and library classes.
 # CIT 281 Lab 6
 
@@ -281,7 +281,7 @@ The purpose of this lab was to:
 - How to Set Up and Test Fastify Web Server
 - How to Use npm for Dependency Management
 - Gained experience with HTML and Web Page Serving
-- [Project 4: Gain experience with REST Server and GET Verb](https://github.com/your-username/project2-repo)
+- [Project 4: Gain experience with REST Server and GET Verb](https://github.com/sadiecase29/p4-repo)
   - Purpose: Gain experience using Fastify with the GET verb, routes, and route parameters.
 # CIT 281 Project 4
 ## Purpose
@@ -313,7 +313,7 @@ The purpose of this lab was to:
 - Gained more experience with Postman
 - How to better manipulate HTML and Web Page Serving
 
-- [Lab 7: Gain experience with GitHub](https://github.com/your-username/project2-repo)
+- [Lab 7: Gain experience with GitHub](https://github.com/sadiecase29/lab-07-repo)
   - Purpose: Create your own GitHub Personal Website Using GitHub Pages and Create lab GitHub code repository.
 # CIT 281 Lab 7
 ## Purpose
@@ -337,7 +337,7 @@ The purpose of this lab was to:
 - More work with Javascriot errors 
 - More work with erroes in the VScode terminal 
 
-- [Project 5: Gain more experience working with code modules](https://github.com/your-username/project2-repo)
+- [Project 5: Gain more experience working with code modules](https://github.com/sadiecase29/p5-repo)
   - Purpose: working with Array map() and forEach() methods, the concept of a gaming loop, and objects and arrays.
 # CIT 281 Project 5 
 ## Purpose
@@ -367,7 +367,7 @@ The purpose of this lab was to:
 - How to use the gaming loop
 - More experience with debugging
 
-- [Lab 8: Gain more experience with node-fetch and Fastify](https://github.com/your-username/project2-repo)
+- [Lab 8: Gain more experience with node-fetch and Fastify](https://github.com/sadiecase29/lab-08-repo)
   - Purpose: Install node-fetch package and add fastify starter code.
 # CIT 281 Lab 8
 ## Purpose
@@ -392,7 +392,7 @@ The purpose of this lab was to:
 - How to Handle Asynchronous Operations
 - How to use Node-fetch
 
-- [Project 6: Interpreting functional descriptions and specifications to complete an assignment](https://github.com/your-username/project2-repo)
+- [Project 6: Interpreting functional descriptions and specifications to complete an assignment](https://github.com/sadiecase29/p6-repo)
   - Purpose: Gain experience creating and working classes with inheritance, creating and working with classes, and debugging code.
 # CIT 281 Project 6
 ## Purpose
@@ -416,7 +416,7 @@ The purpose of this lab was to:
 - How to Debug and Test Javascript code 
 - Got more practice processing Data with Classes
 
-- [Lab 9: Create a Release Based Workflow in GitHub](https://github.com/your-username/project2-repo)
+- [Lab 9: Create a Release Based Workflow in GitHub](https://github.com/sadiecase29/lab-09-repo)
   - Purpose: Create Learning Lab course/repo within your GitHub account.
 # CIT 281 Lab 9
 ## Purpose
